@@ -4,8 +4,8 @@
     "static/js/0.454e5a78.chunk.js.map": "/uniTest/static/js/0.454e5a78.chunk.js.map",
     "static/js/1.ab9e1769.chunk.js": "/uniTest/static/js/1.ab9e1769.chunk.js",
     "static/js/1.ab9e1769.chunk.js.map": "/uniTest/static/js/1.ab9e1769.chunk.js.map",
-    "main.js": "/uniTest/static/js/main.2c3076d0.chunk.js",
-    "main.js.map": "/uniTest/static/js/main.2c3076d0.chunk.js.map",
+    "main.js": "/uniTest/static/js/main.727470cb.chunk.js",
+    "main.js.map": "/uniTest/static/js/main.727470cb.chunk.js.map",
     "runtime-main.js": "/uniTest/static/js/runtime-main.6c8656fa.js",
     "runtime-main.js.map": "/uniTest/static/js/runtime-main.6c8656fa.js.map",
     "static/css/4.b3e945c8.chunk.css": "/uniTest/static/css/4.b3e945c8.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.f59a39d0.chunk.js": "/uniTest/static/js/9.f59a39d0.chunk.js",
     "static/js/9.f59a39d0.chunk.js.map": "/uniTest/static/js/9.f59a39d0.chunk.js.map",
     "index.html": "/uniTest/index.html",
-    "precache-manifest.0f063c965b90aef6dc5da524ce52e868.js": "/uniTest/precache-manifest.0f063c965b90aef6dc5da524ce52e868.js",
+    "precache-manifest.c6840441ffbfa7aaaf03f8cdc035cf05.js": "/uniTest/precache-manifest.c6840441ffbfa7aaaf03f8cdc035cf05.js",
     "service-worker.js": "/uniTest/service-worker.js",
     "static/css/4.b3e945c8.chunk.css.map": "/uniTest/static/css/4.b3e945c8.chunk.css.map",
     "static/js/4.45dbe167.chunk.js.LICENSE.txt": "/uniTest/static/js/4.45dbe167.chunk.js.LICENSE.txt",
@@ -63,6 +63,6 @@
     "static/js/runtime-main.6c8656fa.js",
     "static/css/4.b3e945c8.chunk.css",
     "static/js/4.45dbe167.chunk.js",
-    "static/js/main.2c3076d0.chunk.js"
+    "static/js/main.727470cb.chunk.js"
   ]
 }
